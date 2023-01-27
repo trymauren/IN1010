@@ -1,0 +1,135 @@
+141,Christoffer Bjelke,61,blaa,681
+104,Annika Willlock Olstad,22,militaer,742
+52,Marlen Jarholt,23,blaa,655
+121,Annika Willlock Olstad,37,hvit,249
+79,Marlen Jarholt,68,hvit,195
+64,Christoffer Bjelke,65,militaer,733
+22,Peter Kristiansen,41,p,
+88,Christoffer Bjelke,34,militaer,126
+6,Marlen Jarholt,24,militaer,287
+79,Christoffer Bjelke,43,blaa,764
+120,Peter Kristiansen,35,p,
+117,Annika Willlock Olstad,3,hvit,958
+151,Peter Kristiansen,38,p,
+100,Marlen Jarholt,72,blaa,621
+139,Christoffer Bjelke,49,p,
+108,Christoffer Bjelke,74,blaa,590
+150,Marlen Jarholt,9,p,
+88,Peter Kristiansen,59,militaer,553
+118,Peter Kristiansen,59,militaer,341
+58,Christoffer Bjelke,46,blaa,341
+111,Annika Willlock Olstad,87,p,
+121,Marlen Jarholt,72,hvit,877
+108,Peter Kristiansen,68,blaa,675
+134,Marlen Jarholt,59,hvit,860
+150,Annika Willlock Olstad,67,militaer,249
+152,Annika Willlock Olstad,75,blaa,692
+34,Annika Willlock Olstad,86,militaer,533
+154,Marlen Jarholt,41,p,
+154,Annika Willlock Olstad,78,hvit,382
+57,Annika Willlock Olstad,5,blaa,497
+79,Marlen Jarholt,71,militaer,949
+63,Peter Kristiansen,34,blaa,17
+122,Annika Willlock Olstad,16,p,
+50,Annika Willlock Olstad,91,blaa,382
+153,Annika Willlock Olstad,36,p,
+103,Marlen Jarholt,5,hvit,268
+60,Christoffer Bjelke,52,hvit,479
+55,Annika Willlock Olstad,12,militaer,90
+118,Peter Kristiansen,52,p,
+136,Marlen Jarholt,51,hvit,82
+62,Annika Willlock Olstad,80,hvit,652
+72,Peter Kristiansen,53,hvit,844
+30,Annika Willlock Olstad,86,militaer,56
+69,Christoffer Bjelke,52,hvit,969
+117,Christoffer Bjelke,86,militaer,150
+12,Annika Willlock Olstad,12,p,
+73,Annika Willlock Olstad,82,militaer,627
+61,Annika Willlock Olstad,30,hvit,865
+156,Peter Kristiansen,21,p,
+36,Christoffer Bjelke,20,militaer,489
+100,Marlen Jarholt,69,hvit,26
+116,Christoffer Bjelke,83,hvit,288
+5,Peter Kristiansen,5,p,
+59,Christoffer Bjelke,86,hvit,976
+132,Peter Kristiansen,64,hvit,513
+28,Christoffer Bjelke,10,blaa,409
+64,Peter Kristiansen,78,blaa,149
+48,Annika Willlock Olstad,34,hvit,953
+90,Annika Willlock Olstad,22,p,
+108,Christoffer Bjelke,28,hvit,6
+38,Annika Willlock Olstad,74,blaa,966
+32,Christoffer Bjelke,53,militaer,516
+10,Peter Kristiansen,80,p,
+84,Christoffer Bjelke,14,p,
+134,Peter Kristiansen,54,militaer,841
+83,Peter Kristiansen,86,blaa,741
+59,Peter Kristiansen,53,militaer,19
+69,Christoffer Bjelke,81,hvit,731
+46,Christoffer Bjelke,80,blaa,660
+137,Peter Kristiansen,56,hvit,373
+109,Christoffer Bjelke,43,p,
+50,Annika Willlock Olstad,61,p,
+16,Peter Kristiansen,77,p,
+63,Peter Kristiansen,2,blaa,785
+83,Annika Willlock Olstad,19,hvit,362
+84,Peter Kristiansen,47,p,
+41,Peter Kristiansen,37,hvit,694
+93,Peter Kristiansen,38,hvit,203
+52,Christoffer Bjelke,13,p,
+68,Peter Kristiansen,46,p,
+30,Marlen Jarholt,81,militaer,26
+117,Peter Kristiansen,18,blaa,476
+31,Peter Kristiansen,47,blaa,340
+112,Christoffer Bjelke,82,p,
+83,Marlen Jarholt,86,militaer,15
+100,Christoffer Bjelke,68,p,
+5,Annika Willlock Olstad,71,blaa,404
+95,Peter Kristiansen,46,hvit,982
+104,Christoffer Bjelke,9,blaa,601
+12,Peter Kristiansen,29,blaa,210
+8,Peter Kristiansen,90,militaer,444
+21,Annika Willlock Olstad,1,hvit,672
+104,Annika Willlock Olstad,29,hvit,5
+44,Annika Willlock Olstad,65,hvit,764
+52,Peter Kristiansen,81,blaa,774
+91,Peter Kristiansen,46,hvit,444
+27,Marlen Jarholt,64,p,
+38,Christoffer Bjelke,77,p,
+45,Peter Kristiansen,83,blaa,434
+37,Peter Kristiansen,71,hvit,444
+98,Peter Kristiansen,28,blaa,19
+102,Peter Kristiansen,11,militaer,984
+38,Christoffer Bjelke,75,militaer,497
+85,Christoffer Bjelke,78,militaer,771
+11,Peter Kristiansen,33,militaer,164
+32,Annika Willlock Olstad,23,militaer,328
+1,Marlen Jarholt,6,hvit,843
+97,Annika Willlock Olstad,71,p,
+137,Marlen Jarholt,93,blaa,648
+123,Annika Willlock Olstad,75,blaa,301
+126,Christoffer Bjelke,16,p,
+41,Annika Willlock Olstad,53,hvit,786
+85,Annika Willlock Olstad,36,blaa,736
+82,Annika Willlock Olstad,70,blaa,508
+36,Annika Willlock Olstad,31,militaer,99
+8,Annika Willlock Olstad,16,hvit,307
+86,Marlen Jarholt,12,p,
+145,Peter Kristiansen,3,blaa,917
+147,Peter Kristiansen,84,p,
+51,Marlen Jarholt,4,militaer,267
+61,Peter Kristiansen,35,militaer,275
+59,Christoffer Bjelke,45,hvit,239
+125,Annika Willlock Olstad,57,hvit,556
+12,Marlen Jarholt,80,blaa,225
+21,Marlen Jarholt,72,blaa,626
+153,Annika Willlock Olstad,60,militaer,523
+2,Peter Kristiansen,66,p,
+12,Christoffer Bjelke,17,blaa,648
+67,Annika Willlock Olstad,60,militaer,951
+28,Marlen Jarholt,87,blaa,501
+132,Christoffer Bjelke,83,p,
+113,Marlen Jarholt,10,p,
+4,Annika Willlock Olstad,37,blaa,203
+16,Christoffer Bjelke,35,militaer,281
+41,Peter Kristiansen,72,p,

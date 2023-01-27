@@ -1,0 +1,34 @@
+Del A Gruppearbeid:
+
+A1:
+- Alle deler fra tidligere arbeider
+- Arbeidsinnsatsen skal være omtrent like stor
+
+A2:
+- Noe av koding, som oppgave E, foregår live på samme fil
+- Oppgave B,C,D fordeles slik at 2 personer jobber sammen om oppgaven
+- Frist for å levere forsøk på løsning av oppgave til gruppa innen fredag 05.
+- Fullstendig oppgave trenger kun å være ferdig før fristen
+
+A3:
+- Bruker VS Code som live- koding- verktøy og til deling, 
+og GitHub for å samle ferdige oppgaver.
+- Løsningene på oblig 2 var nesten helt identiske, og det spilte derfor liten rolle
+hvilken løsning som ble valgt.
+- Løsningene på oblig 3 var litt mer varierende, men endte opp med det forslaget flest
+på gruppa var nære.
+- Bruker Mons sin løsning fra oblig2, og Øystein sin løsning fra oblig3 (foreløpig).
+
+Del B Gruppearbeid:
+
+F1:
+- Alt gikk bra.
+
+F2:
+- Ingenting.
+
+F3:
+- Mye. Kult å samarbeide på kode-prosjekter.
+
+F4:
+- ?

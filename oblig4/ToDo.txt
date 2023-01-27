@@ -1,0 +1,48 @@
+Gjøremål:
+
+        Del A:
+
+        Del B: Klassen Pasient (...)
+
+        B1: ​Skriv klassen Pasient. (...)
+
+        B2:​ Endre klassene som tar inn en ​int pasientid​ til å ta inn en ​Pasient pasient. (...)
+
+
+
+        Del C: Itererbare lister (...)
+
+        C1:​ Sørg for at grensesnittet ​Liste<T>​ utvider ​Iterable<T>​. (...)
+
+        C2:​ Skriv klassen ​LenkelisteIterator (...)
+
+        C3:​ Utvid klassen Lenkeliste<T> (...)
+
+
+
+Del D: Klassen Lege (...)
+
+        D1: ​Utvid klassen Lege (...)
+
+D2:​ Utvid Klassen Lege med en instans Lenkeliste<Resept> (...)
+
+D3 (for grupper, men anbefalt for alle):​ Lege skal ha metoder (...)
+
+
+
+Del E: Legesystem (...)
+
+E1: ​Skriv en metode for å lese inn objekter fra fil (...)
+
+E2: ​Sørg for at brukeren får presentert (...)
+
+E3:​ Implementer funksjonalitet for å skrive ut (...)
+
+E4:​ Legg til funksjonalitet for å la bruker legge til (...)
+
+E5:​ Legg til mulighet for å bruke en resept (...)
+
+E6:​ Opprett funksjonalitet for å vise (...)
+
+E7 (frivillig om man jobber alene):​ Gi brukeren mulighet til å skrive alle (...)
+
